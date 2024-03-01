@@ -42,9 +42,10 @@
         background-position: center center;
     }
 
-    section#login > div#forma{
+    section#login > div#form{
         float: right;
         width: 50%;
+
     }
     
 }
